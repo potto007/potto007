@@ -1,5 +1,4 @@
 ### Hi! 👋
-<a rel="me" href="https://hachyderm.io/@potto">Mastodon</a>
 <!--
 **potto007/potto007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,4 +13,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p><a href="https://hachyderm.io/@potto"><img src="https://img.shields.io/badge/mastodon-6364FF.svg?&style=for-the-badge&logo=mastodon&logoColor=white" height=25></a>
+<p><a rel="me" href="https://hachyderm.io/@potto"><img src="https://img.shields.io/badge/mastodon-6364FF.svg?&style=for-the-badge&logo=mastodon&logoColor=white" height=25></a>
