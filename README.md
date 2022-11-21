@@ -1,5 +1,5 @@
 ### Hi! 👋
-
+<a rel="me" href="https://hachyderm.io/@potto">Mastodon</a>
 <!--
 **potto007/potto007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
