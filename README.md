@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p><a rel="me" href="https://hachyderm.io/@potto"><img src="https://img.shields.io/badge/mastodon-6364FF.svg?&style=for-the-badge&logo=mastodon&logoColor=white" height=25></a>
+<p><a rel="me" href="https://infosec.exchange/@potto"><img src="https://img.shields.io/badge/mastodon-6364FF.svg?&style=for-the-badge&logo=mastodon&logoColor=white" height=25></a>
